@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a2a0e610e2b7d64eadab7857151488c, type: 3}
+  m_Name: Durum1
+  m_EditorClassIdentifier: 
+  hikayeMetni: t is a long established fact that a reader will be distracted by the
+    readable content of a page when looking at its layout. The point of using Lorem
+    Ipsum is that it has a more-or-less normal distribution of letters, as opposed
+    to using 'Content here, content here', making it look like readable English.
+    Many desktop publishing packages and web page editors now use Lorem Ipsum as
+    their default model text, and a search for 'lorem ipsum' will uncover many web
+    sites still in their infancy. Various versions have evolved over the years, sometimes
+    by accident, sometimes on purpose (injected humour and the like).
+  sonrakiDurumlar:
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 93578eacfd2e5d846bafff2d611f7ad7, type: 2}

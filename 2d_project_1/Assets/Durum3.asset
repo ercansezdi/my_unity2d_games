@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a2a0e610e2b7d64eadab7857151488c, type: 3}
+  m_Name: Durum3
+  m_EditorClassIdentifier: 
+  hikayeMetni: There are many variations of passages of Lorem Ipsum available, but
+    the majority have suffered alteration in some form, by injected humour, or randomised
+    words which don't look even slightly believable. If you are going to use a passage
+    of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden
+    in the middle of text. All the Lorem Ipsum generators on the Internet tend to
+    repeat predefined chunks as necessary, making this the first true generator on
+    the Internet. It uses a dictionary of over 200 Latin words, combined with a handful
+    of model sentence structures, to generate Lorem Ipsum which looks reasonable.
+    The generated Lorem Ipsum is therefore always free from repetition, injected
+    humour, or non-characteristic words etc.
+  sonrakiDurumlar:
+  - {fileID: 11400000, guid: 4cfa61e4a6f500f4a8275a0d603cbbc5, type: 2}
+  - {fileID: 11400000, guid: 8c2af591038ff744b854fcd1c09dd77c, type: 2}

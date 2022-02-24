@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a2a0e610e2b7d64eadab7857151488c, type: 3}
+  m_Name: Durum4
+  m_EditorClassIdentifier: 
+  hikayeMetni: The standard chunk of Lorem Ipsum used since the 1500s is reproduced
+    below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum
+    et Malorum" by Cicero are also reproduced in their exact original form, accompanied
+    by English versions from the 1914 translation by H. Rackham.
+  sonrakiDurumlar:
+  - {fileID: 11400000, guid: 4cfa61e4a6f500f4a8275a0d603cbbc5, type: 2}
+  - {fileID: 11400000, guid: e908c1d4748abe64fab4364b5ff5d353, type: 2}
